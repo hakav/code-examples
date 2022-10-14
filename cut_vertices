@@ -145,4 +145,4 @@ class Graph(val nofVertices: Int, edges: Seq[(Int,Int)]):
 
 
 
-end Graph
+end Graph 
