@@ -7,4 +7,4 @@ This is a recursive linear time DFS-based algorithm to find the cut vertices of 
 
 
 Image segmentation:
-The problem is to find the best way to partition the given figure in two parts: a monochromatic rectangle and a monochromatic background. The objective is to minimize the sum of squared errors. Here data is a color image with ny * nx pixels, and in this task the image is monochromatic, with every pixel having RGB value (1,1,1) or (0,0,0).
+The problem is to find the best way to partition an image into two parts: a monochromatic rectangle and a monochromatic background. The objective is to minimize the sum of squared errors. Here 'data' is a color image with ny * nx pixels, and in this task the image is monochromatic, with every pixel having RGB value (1,1,1) or (0,0,0).
