@@ -1,5 +1,5 @@
 # code-examples
-A bit of code from coursework to showcase what I've worked on!
+Some bits of code from coursework to showcase what I've worked on
 
 
 Cut vertices:
